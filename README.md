@@ -35,7 +35,7 @@ This file can be found in the Data folder of this project, unique_titles.csv. Af
 ### Mentorship Eligibility
 * Mentorship eligibility was determined based on the employee's birthdate being during the year 1965. There is a total 1549 employees eligible for mentoring.
 This file can be found in the Data folder, mentorship_eligibility.csv.
-#### Mentorship Eligible [Mentorship_eligibility.csv](https://github.com/summerstime/Pewlett_Hackard_Analysis/blob/main/Data/mentorship_eligibilty.csv)
+#### Mentorship Eligible [Mentorship_eligibility.csv](https://github.com/summerstime/Pewlett_Hackard_Analysis/blob/main/Data/mentorship_eligibility.csv)
 ![Mentorship Eligible](https://github.com/summerstime/Pewlett_Hackard_Analysis/blob/main/Screenshots/Mentorship_eligibility.png) 
 
 ### Mentors to Retirees
