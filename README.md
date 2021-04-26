@@ -3,7 +3,7 @@ Module 7 Project
 
 ## Overview
 
-This project is to satisfy the requirements for the seventh module challenge in the Data Analysis Bootcamp. We are working in PostgreSQL.
+This project is to satisfy the requirements for the seventh module challenge in the Data Analysis Bootcamp. We are working in [PostgreSQL](https://www.postgresql.org/).
 In this project, we are asked to create different tables to analyze the employees of the Pewlett Hackard company as they make determinations
 about their retiring employees and being able to support the young talent currently working for the company. The analysis described here is to 
 help management determine their current state with employees and to make plans moving forward.
@@ -11,8 +11,12 @@ help management determine their current state with employees and to make plans m
 ## Results
 
 ### Data Review
+* The initial process was creating an Entity Relationship Diagram. This is an evalution and way of documenting the tables with their particular characteristics. 
+The program used for this was [Quick Database Diagrams](https://www.quickdatabasediagrams.com/).
+![Entity Relationship Diagram](https://github.com/summerstime/Pewlett_Hackard_Analysis/blob/main/EmployeeDB.png) 
+
 * There were many tables to be created from the six original entry tables. These csv files were joined with specific criteria to create other tables and exported
-as required in a csv format.
+as required in a csv format. 
 Part of the review included the generation of a table for retiree's titles based on birthdate. Birthdays between 1/1/1952 and 12/31/1955 were considered in the range of retirement age.
 Another part of the review was establishing a group for mentorship. Where possibly the help of part-time retirees mentoring the younger employees will
 continue the efforts of knowledge transfer for the future.
